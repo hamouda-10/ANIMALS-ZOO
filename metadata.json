@@ -1,0 +1,8 @@
+{
+  "name": "Tana Camps Expeditions — Elephant & World Sanctuaries",
+  "description": "An editorial wildlife monograph and interactive 3D global zoological sanctuaries booking experience by Tana Camps Expeditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
